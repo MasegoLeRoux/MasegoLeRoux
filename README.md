@@ -9,7 +9,7 @@ alt="kamogelomasegomashigo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MasegoLeRoux" alt="MasegoLeRoux" /></a> </p>
 
-- 📫 How to reach me **masegoleroux@outook.com**
+- 📫 How to reach me **masmashigo@outlook.com**
 
 - ⚡ Fun fact **“Knock, knock.” “Who’s there?” very long pause…. “Java.”**
 
