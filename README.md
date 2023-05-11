@@ -5,7 +5,8 @@
 
 <img alight ="center" alt="coding" width="1000" src=https://media.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamogelomasegomashigo&label=Profile%20views&color=0e75b6&style=flat" alt="kamogelomasegomashigo" /> </p>
+<p align="left"> <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+alt="kamogelomasegomashigo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MasegoLeRoux" alt="MasegoLeRoux" /></a> </p>
 
