@@ -1,7 +1,7 @@
 # Kamogelo_Mashgio
 
 <h1 align="center">Hi 👋, I'm Kamogelo Masego Mashigo</h1>
-<h3 align="center">Confident, just graduated computer science student with a passion for innovation. I'm looking for a internship Software developer position.</h3>
+<h3 align="center">Confident, just graduated computer science student with a passion for innovation.</h3>
 
 <img alight ="center" alt="coding" width="1000" src=https://media.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif>
 
