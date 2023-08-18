@@ -1,4 +1,4 @@
-                                                    # Kamogelo_Mashgio
+                                                 <h1 align="center"> Kamogelo_Mashgio /h1>
 
 <h1 align="center">Hi 👋, I'm Kamogelo Mashigo</h1>
 <h3 align="center">Confident, Junior Software Developer-"Ctrl+Alt+Del: My life as a coder syntax."</h3>
