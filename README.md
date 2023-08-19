@@ -1,10 +1,12 @@
-                                                 <h1 align="center"> Kamogelo_Mashgio /h1>
+# <h1 align="center"> Kamogelo_Mashgio </h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" alt="Project Banner" height="250" width = "1000">
+ </p>
 
 <h1 align="center">Hi 👋, I'm Kamogelo Mashigo</h1>
 <h3 align="center">Confident, Junior Software Developer-"Ctrl+Alt+Del: My life as a coder syntax."</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masegoleroux&label=Profile%20views&color=0e75b6&style=flat" alt="masegoleroux" /> </p>
-
-<img align ="right" alt="Coding" width="200" src =https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masegoleroux" alt="masegoleroux" /></a> </p>
 
