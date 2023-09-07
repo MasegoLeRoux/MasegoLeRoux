@@ -1,7 +1,7 @@
 # <h1 align="center"> Kamogelo_Mashgio </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1HQ0xMcxsSECY/giphy.mp4" alt="Project Banner" height="250" width = "1000">
+  <img src="https://media.giphy.com/media/1HQ0xMcxsSECY/giphy.gif" alt="Project Banner" height="450" width = "1000">
  </p>
 
 <h1 align="center">Hi 👋, I'm Kamogelo Mashigo</h1>
