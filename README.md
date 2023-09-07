@@ -1,4 +1,4 @@
-# <h1 align="center"> Kamogelo_Mashgio </h1>
+# <h1 align="center"> Kamogelo_Mashigo </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/1HQ0xMcxsSECY/giphy.gif" alt="Project Banner" height="450" width = "1000">
