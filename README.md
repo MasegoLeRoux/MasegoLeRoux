@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/1HQ0xMcxsSECY/giphy.gif" alt="Project Banner" height="450" width = "1000">
  </p>
 
-<h1 align="center">Hi 👋, I'm Kamogelo Mashigo</h1>
+<h1 align="center">Hi 🤔, I'm Kamogelo Mashigo</h1>
 <h3 align="center">Confident, Junior Software Developer-"Ctrl+Alt+Del: My life as a coder syntax."</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masegoleroux&label=Profile%20views&color=0e75b6&style=flat" alt="masegoleroux" /> </p>
 
