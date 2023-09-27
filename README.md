@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masegoleroux" alt="masegoleroux" /></a> </p>
 
-- 🔭 I’m currently working on **Week 1 algorithm wil be uploaded tomorrow**
+- 🔭 I’m currently working on **Working on the sql project wil be done by the end of the week hopefully then java and c# PROJECTS **
 
 - 👯 I’m looking to collaborate on **C#,JAVA,Javascript and c++**
 
